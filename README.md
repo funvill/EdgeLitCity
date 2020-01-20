@@ -1,5 +1,6 @@
-# EdgeLitCity
-A edge lit city 
+# City of light 
+
+Each 25 building in the city, glows from leds embedded into the base of the sculpture. The LEDs are addressable and the city will cycle through many different patterns and colors. Light will be projected from the base on to the ceiling in a grid pattern that looks similar to the aurora borealis. 
 
 ## Small City 
 This is a small demo to see if the technology works before scaling up to the full size. 
